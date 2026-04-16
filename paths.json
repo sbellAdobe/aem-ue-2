@@ -1,0 +1,8 @@
+{
+  "mappings": [
+    "/content/wknd-xwalk/:/"
+  ],
+  "includes": [
+    "/content/wknd-xwalk/"
+  ]
+}
